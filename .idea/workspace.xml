@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6f5ac985-40ae-440b-918a-1a740849b843" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/mnist_classification.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/mnist_classification.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +115,7 @@
       <workItem from="1719242021618" duration="3536000" />
       <workItem from="1719273115317" duration="1560000" />
       <workItem from="1719275060733" duration="1824000" />
-      <workItem from="1719308114678" duration="1746000" />
+      <workItem from="1719308114678" duration="4469000" />
     </task>
     <servers />
   </component>
